@@ -3,8 +3,8 @@
 	"private": true,
 	"publisher": "mkps",
 	"displayName": "Other Language",
-	"description": "Provides a language identifier \"unset\" with no features",
-	"version": "1.0.0",
+	"description": "Provides a language identifier \"other\" with no features",
+	"version": "1.0.1",
 	"license": "MIT",
 	"icon": "res/icon.png",
 	"repository": {
