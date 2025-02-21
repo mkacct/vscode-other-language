@@ -1,0 +1,23 @@
+{
+	"name": "other-language",
+	"private": true,
+	"publisher": "mkps",
+	"displayName": "Other Language",
+	"description": "Provides a language identifier \"unset\" with no features",
+	"version": "1.0.0",
+	"license": "MIT",
+	"icon": "res/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mkacct/vscode-other-language.git"
+	},
+	"engines": {"vscode": "^1.97.0"},
+	"categories": ["Programming Languages", "Other"],
+	"contributes": {
+		"languages": [{
+			"id": "other",
+			"aliases": ["Other", "other"],
+			"configuration": "./language-configuration.json"
+		}]
+	}
+}
