@@ -1,0 +1,7 @@
+{
+	"material-icon-theme.folders.associations": {
+		"res": "resource",
+		"src": "src",
+		"syntaxes": "syntax"
+	}
+}
